@@ -1,0 +1,34 @@
+<svg width="447.5" height="447.5" xmlns="http://www.w3.org/2000/svg">
+
+    <g>
+        <title>Background</title>
+        <rect fill="none" id="canvas_background" height="449.5" width="449.5" y="-1" x="-1"/>
+    </g>
+    <g>
+        <title>Orochi Logo</title>
+        <g id="svg_15">
+            <circle id="iris" fill="#26CCE9" r="80" cy="224.75" cx="223.749969"/>
+            <circle id="pupil" fill="black" r="20" cy="224.75" cx="223.749969"/>
+
+            <path id="svg_3" stroke-width="5" stroke="black" fill="none" d="m3.749969,244.75a20,20 45 0 0 40,0"/>
+            <path id="svg_4" stroke-width="5" stroke="black" fill="none" d="m3.749969,204.75a20,20 -45 0 1 40,0"/>
+
+            <path id="arc_so" stroke-width="5" stroke="black" fill="none" d="m22.749969,264.75a200,200 45 0 0 160,160"/>
+
+            <path id="svg_6" stroke-width="5" stroke="black" fill="none" d="m203.749969,443.75a20,20 45 0 1 0,-40"/>
+            <path id="svg_7" stroke-width="5" stroke="black" fill="none" d="m243.749969,443.75a20,20 45 0 0 0,-40"/>
+
+            <path id="arc_se" stroke-width="5" stroke="black" fill="none" d="m262.749969,424.75a200,200 45 0 0 160,-160"/>
+
+            <path id="svg_9" stroke-width="5" stroke="black" fill="none" d="m403.749969,243.75a20,20 45 0 0 40,0"/>
+            <path id="svg_10" stroke-width="5" stroke="black" fill="none" d="m403.749969,203.75a20,20 45 0 1 40,0"/>
+
+            <path id="arc_ne" stroke-width="5" stroke="black" fill="none" d="m422.749969,184.75a200,200 45 0 0 -160,-160"/>
+
+            <path id="svg_12" stroke-width="5" stroke="black" fill="none" d="m203.749969,43.75a20,20 45 0 1 0,-40"/>
+            <path id="svg_13" stroke-width="5" stroke="black" fill="none" d="m243.749969,43.75a20,20 45 0 0 0,-40"/>
+
+            <path id="arc_no" stroke-width="5" stroke="black" fill="none" d="m182.749969,24.75a200,200 45 0 0 -160,160"/>
+        </g>
+    </g>
+</svg>
